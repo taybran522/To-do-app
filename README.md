@@ -20,7 +20,7 @@ Add tasks, mark them as completed, and delete them with a smooth shrink animatio
    
 2. Open the index.html file in your browser to start using the app
 
-# Technologies Used
+## Technologies Used
 1. HTML5
 2. CSS3 (Flexbox for layout)
 3. JavaScript (DOM manipulation and event handling)
